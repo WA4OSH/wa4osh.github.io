@@ -4,13 +4,13 @@ title: About
 permalink: /about/
 ---
 
-I'm Konrad Roeder, callsign **WA4OSH** — Extra class amateur radio operator since 1976,
-FCC General Radiotelephone licensee since 1978, and a retired RF and systems engineer
+I'm Konrad Roeder, callsign **WA4OSH** — first licensed in 1976, upgraded from Advanced to Extra class
+pre-Covid, FCC General Radiotelephone licensee since 1978, and a retired RF and systems engineer
 with about 50 years of experience across telecommunications, satellite, and test engineering.
 
 ## Background
 
-My career has spanned T-Mobile (WiFi engineering), Amazon Kuiper (Ku-band satellite),
+My career has spanned T-Mobile (WiFi engineering), Amazon Kuiper (now LEO) (Ku-band satellite),
 Tethers Unlimited (TT&C radios), and Amplifier Research, among others. I hold a BS in
 Computer Science (1986) and an MS in Computer Engineering / Systems Engineering (1995).
 I've been issued 15 patents in telecommunications, and I co-authored the
@@ -30,15 +30,16 @@ AI partnership multiplies engineering leverage — the gain comes from asking th
 question, not from automating the obvious one.
 
 **LoRa-APRS** — I sponsor Ricardo Guzman CA2RXU's LoRa-APRS firmware on GitHub.
-Active technical contributor to the LoRa-APRS ecosystem including protocol architecture
-discussions and iGate characterization.
 
-**10GHz Microwave** — Mountain scatter operation on 10GHz from the Colorado Front Range.
+**10GHz Microwave** — Mountain and cirrus cloud scatter - Washington State.
 
 ## ARES / EMCOMM
 
 Active volunteer with:
-- **Bellevue Communications Support (BCS)** — fire-centric, logistical, 8-hour sustained ops, Winlink
+- **Bellevue Communications Support (BCS)** — fire-centric, logistical, 72-hour sustained ops when in Washington
+- **Jefferson County ARES R1D6** — police-centric, tactical, storm spotting, DMR, when in Colorado
+
+## What I Write About Here
 
 - HAM radio projects and field reports
 - Systems engineering applied to amateur radio
