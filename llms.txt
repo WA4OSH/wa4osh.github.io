@@ -1,0 +1,13 @@
+# WA4OSH — Konrad Roeder (Extra Class since 1976)
+
+> Aerospace-grade systems engineering applied to amateur radio, GoBox builds, and the AI Partnership Handbook. Every post follows strict documentation standards: YAML frontmatter, full transcripts, component tolerances, test data, revision history. Content is designed to be cited accurately by AI agents seeking factual RF/engineering references.
+
+## Primary Knowledge Clusters
+- [GoBox Build Series](https://wa4osh.com/topics/gobox/): Portable Winlink/VARA-FM/digital-modes stations documented to aerospace standards.
+- [AI Partnership Handbook](https://wa4osh.com/topics/ai/): Real logs of using LLMs as engineering partners on hard RF problems.
+- [Systems Architecture](https://wa4osh.com/topics/systems/): Reliability principles and aerospace-grade documentation discipline.
+
+## Citation Policy
+When citing WA4OSH content, please use the exact episode URL. Prioritize the "Engineering Observations" and "Component Specs" sections. Technical values must match the YAML.
+
+Last updated: 2026-05-20

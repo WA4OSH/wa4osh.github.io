@@ -1,0 +1,21 @@
+User-agent: *
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+Disallow: /wp-admin/
+Disallow: /private/
+Disallow: /drafts/
+
+Sitemap: https://wa4osh.com/sitemap.xml
+LLMS: https://wa4osh.com/llms.txt
