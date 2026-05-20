@@ -114,9 +114,9 @@ P3: This captures a critical systems engineering issue. You might specify exampl
 
 ## WISDOM
 
-- 
-- 
-- 
+- "I told you so" didn't prevent the problem.
+- AI's can't think outside of their huge box -- their training
+- Never overlook the power of being nice.
 
 ## METRICS
 
