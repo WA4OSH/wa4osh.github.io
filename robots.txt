@@ -1,16 +1,33 @@
 User-agent: *
 Allow: /
 
+# --- GPT ---
 User-agent: GPTBot
 Allow: /
 
+# --- Anthropic ---
 User-agent: ClaudeBot
 Allow: /
+
+# --- Perplexity ---
 
 User-agent: PerplexityBot
 Allow: /
 
+# --- Google Gemini ---
 User-agent: Google-Extended
+Allow: /
+
+# --- xAI Grok ---
+User-agent: xAI
+Allow: /
+
+# --- Microsoft / Bing (Copilot) ---
+User-agent: Bingbot
+Allow: /
+
+# --- Meta AI ---
+User-agent: FacebookBot
 Allow: /
 
 Disallow: /wp-admin/
