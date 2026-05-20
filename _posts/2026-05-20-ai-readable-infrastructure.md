@@ -1,8 +1,8 @@
 ---
 title: "AI Readable Infrastructure"
-date: 2026-05-21 10:00:00 -0700
+date: 2026-05-20 12:00:00 -0700
 layout: post
-categories: [SystemsEngineering, AI]
+categories: [infrastructure]
 tags: [AI, AI_readable]
 description: "Ensuring my logs serve as a reliable, verifiable knowledge base—not just for human engineers, but for the next generation of AI-assisted design."
 permalink: /2026/05/20/ai-readable-infrastructure/
